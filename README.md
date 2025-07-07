@@ -10,18 +10,30 @@ SivaAshokKumar/SivaAshokKumar is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YUKII2K3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YUKII2K3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YUKII2K3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=SivaAshokKumar)](https://github.com/SivaAshokKumar/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=SivaAshokKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SivaAshokKumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaAshokKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaAshokKumar&layout=compact&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YUKII2K3&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=SivaAshokKumar&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
+![Visitors](https://komarev.com/ghpvc/?username=SivaAshokKumar&color=blue&style=flat)
+![Contribution Snake](https://raw.githubusercontent.com/SivaAshokKumar/SivaAshokKumar/output/github-contribution-grid-snake.svg)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=SivaAshokKumar&theme=dark)
+![Custom Badge](https://img.shields.io/badge/Follow-SivaAshokKumar-blue?style=for-the-badge&logo=github)
 
+# 📊 Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=SivaAshokKumar&theme=dark)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SivaAshokKumar&theme=dark)  
+
+# 🏆 Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=SivaAshokKumar&theme=onedark)  
+
+# 🌟 Top Repos  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SivaAshokKumar&repo=REPO_NAME)](https://github.com/SivaAshokKumar/REPO_NAME)  
+
+#YUKI
 ---
 [![](https://visitcount.itsvg.in/api?id=YUKII2K3&icon=0&color=0)](https://visitcount.itsvg.in)
