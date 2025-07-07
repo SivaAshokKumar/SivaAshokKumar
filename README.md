@@ -9,3 +9,22 @@
 SivaAshokKumar/SivaAshokKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=SivaAshokKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SivaAshokKumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaAshokKumar&layout=compact&theme=dark)<br/>
+
+### 🔝 Top Contributed Repo
+![Visitors](https://komarev.com/ghpvc/?username=SivaAshokKumar&color=blue&style=flat)<br/>
+[![Custom Badge](https://img.shields.io/badge/Follow-SivaAshokKumar-blue?style=for-the-badge&logo=github)](https://github.com/SivaAshokKumar)<br/>
+[![LinkedIn](https://img.shields.io/badge/Connect-SivaAshokKumar-blue?style=for-the-badge&logo=linkedin-in)](https://linkedin.com/in/siva-ashokkumar/)
+[![Custom Badge](https://img.shields.io/badge/Follow-@YourTwitterHandle-blue?style=for-the-badge&logo=x)](https://x.com/SivAshokKumar)
+
+
+# 🏆 Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=SivaAshokKumar&theme=onedark)<br/>  
+
+# 🌟 Top Repos  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SivaAshokKumar&repo=LipSync-Avatar-Generator)](https://github.com/SivaAshokKumar/LipSync-Avatar-Generator)  <br/>
+
