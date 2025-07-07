@@ -32,8 +32,5 @@ You can click the Preview link to take a look at your changes.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SivaAshokKumar&theme=onedark)  
 
 # 🌟 Top Repos  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SivaAshokKumar&repo=REPO_NAME)](https://github.com/SivaAshokKumar/REPO_NAME)  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SivaAshokKumar&repo=LipSync-Avatar-Generator)](https://github.com/SivaAshokKumar/LipSync-Avatar-Generator)  
 
-#YUKI
----
-[![](https://visitcount.itsvg.in/api?id=YUKII2K3&icon=0&color=0)](https://visitcount.itsvg.in)
