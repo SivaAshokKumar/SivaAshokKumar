@@ -16,11 +16,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaAshokKumar&layout=compact&theme=dark)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YUKII2K3&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=SivaAshokKumar&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-
 ![Visitors](https://komarev.com/ghpvc/?username=SivaAshokKumar&color=blue&style=flat)<br/>
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=SivaAshokKumar&theme=dark)<br/>
 ![Custom Badge](https://img.shields.io/badge/Follow-SivaAshokKumar-blue?style=for-the-badge&logo=github)<br/>
 
 # 📊 Stats  
